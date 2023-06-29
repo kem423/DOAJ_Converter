@@ -4,12 +4,12 @@
 
 ### We send the following Journals:
 
--- HDSR
--- NOL
--- QSS
--- DINT
--- TACL
--- OPMI
--- NETN
--- COLI
+- HDSR
+- NOL
+- QSS
+- DINT
+- TACL
+- OPMI
+- NETN
+- COLI
 The homepage lives: https://doaj.org/
